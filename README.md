@@ -1,1 +1,12 @@
-# 📊 Proyecto: Análisis de Beneficios y Margen Este proyecto personal tiene como objetivo practicar el análisis de datos financieros utilizando **Power BI**. El foco principal es explorar métricas relacionadas con **beneficios y márgenes**, generando insights para la toma de decisiones empresariales. ## 🔧 Herramientas utilizadas - Power BI (modelado, DAX y visualización) - Power Query (limpieza y transformación de datos) - Excel (fuente de datos) ## 📊 Resultados principales - Cálculo de **beneficio total** y **margen promedio**. - Comparación de márgenes por categoría de producto. - Análisis temporal de beneficios. - Identificación de productos o segmentos más rentables. 📌 **Nota:** Este proyecto forma parte de mi portafolio personal como **Analista de Datos** y fue desarrollado con fines de aprendizaje y práctica.
+# 📊 Proyecto: Análisis de Beneficios y Margen 
+Este proyecto personal tiene como objetivo practicar el análisis de datos financieros utilizando **Power BI**. El foco principal es explorar métricas relacionadas con **beneficios y márgenes**, generando insights para la toma de decisiones empresariales. 
+# 🔧 Herramientas utilizadas 
+- Power BI (modelado, DAX y visualización)
+- Power Query (limpieza y transformación de datos)
+- Excel (fuente de datos) 
+# 📊 Resultados principales 
+- Cálculo de **beneficio total** y **margen promedio**.
+- Comparación de márgenes por categoría de producto.
+- Análisis temporal de beneficios.
+- Identificación de productos o segmentos más rentables.
+📌 **Nota:** Este proyecto forma parte de mi portafolio personal como **Analista de Datos** y fue desarrollado con fines de aprendizaje y práctica.
